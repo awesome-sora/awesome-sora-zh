@@ -1,5 +1,10 @@
 # awesome-sora
 
+<p align="center">
+    <a href="https://github.com/awesome-sora/awesome-sora/blob/main/README.md"><b>English</b></a> •
+    <a href="https://github.com/awesome-sora/awesome-sora-zh/blob/main/README.md"><b>中文</b></a>
+</p>
+
 ### 🌟 引言 (Introduction)
 
 欢迎来到Awesome Sora资源仓库！这个仓库旨在为对Sora感兴趣的学习者、开发者、研究人员以及创意专业人士提供一个综合性的资源集合。Sora，由OpenAI开发，是一个先进的人工智能模型，能够根据文本描述生成高质量的视频，展现了前所未有的创造潜力。从艺术创作到教育，从娱乐到科学研究，Sora的应用前景无限广阔，它的开发标志着人工智能技术在视觉创作领域的一个重要里程碑。
